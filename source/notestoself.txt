@@ -1,0 +1,1 @@
+//if you fail at scraping a page you log it
